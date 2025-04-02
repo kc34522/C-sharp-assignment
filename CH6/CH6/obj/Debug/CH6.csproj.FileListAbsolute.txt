@@ -1,0 +1,7 @@
+C:\Users\kelly\Desktop\CH1\CH6\CH6\bin\Debug\CH6.exe.config
+C:\Users\kelly\Desktop\CH1\CH6\CH6\bin\Debug\CH6.exe
+C:\Users\kelly\Desktop\CH1\CH6\CH6\bin\Debug\CH6.pdb
+C:\Users\kelly\Desktop\CH1\CH6\CH6\obj\Debug\CH6.csproj.AssemblyReference.cache
+C:\Users\kelly\Desktop\CH1\CH6\CH6\obj\Debug\CH6.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Desktop\CH1\CH6\CH6\obj\Debug\CH6.exe
+C:\Users\kelly\Desktop\CH1\CH6\CH6\obj\Debug\CH6.pdb
